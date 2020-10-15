@@ -1,0 +1,8 @@
+.idea
+.code
+settings.py
+migrations
+__pycache__
+.env
+venv
+*.py[oc]
